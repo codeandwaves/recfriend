@@ -6,7 +6,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/recfriend/'
+    base: '/recfriend/index'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
